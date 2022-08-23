@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "583148789149",
+    "project_id": "rnsocialsignin-88146",
+    "storage_bucket": "rnsocialsignin-88146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583148789149:android:e629f257847deec64aa374",
+        "android_client_info": {
+          "package_name": "com.rnsocialsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583148789149-oa3901ihcfqq6i05a5pirqlflgcd4ksi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnsocialsignin",
+            "certificate_hash": "68f4b642c995f46935cea283fbbc1a6db0d86435"
+          }
+        },
+        {
+          "client_id": "583148789149-86afg9gih68g04u8th35poalc2m0qe7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm15EI38XiboKOEMpez4uBwL0X72Bts5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583148789149-86afg9gih68g04u8th35poalc2m0qe7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583148789149-dajsbh4d2v9ddtkr5139ae2it67s1abi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNSocialSignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
